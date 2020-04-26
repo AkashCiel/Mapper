@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036974995695",
+    "firebase_url": "https://mindmap-c2209.firebaseio.com",
+    "project_id": "mindmap-c2209",
+    "storage_bucket": "mindmap-c2209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036974995695:android:db150f8c7e462ebee0c31a",
+        "android_client_info": {
+          "package_name": "com.example.mapper02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036974995695-fb3d4hh3v5mqmra0c810fif2hmptj3lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapper02",
+            "certificate_hash": "7a6a755803dd43ff26bceb5764f18e545e987af0"
+          }
+        },
+        {
+          "client_id": "1036974995695-eueasfjvc8d58ee3aoshbc24qffk8ckh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8WWkI2Ad1NrO-5L_7aypdOIePkd3-xD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036974995695-eueasfjvc8d58ee3aoshbc24qffk8ckh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
